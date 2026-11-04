@@ -2,7 +2,7 @@
 
 这里发布产品开发框架面向试用者的功能更新和使用变化。
 
-- [最新公告：2026.11.03 分析、证据与项目体验更新](https://github.com/qweneric66-png/product-framework-updates/releases/tag/update-2026.11.03)
+- [最新公告：2026.11.04 项目调研、文字润色与质量复核](https://github.com/qweneric66-png/product-framework-updates/releases/tag/update-2026.11.04)
 - [完整更新日志](CHANGELOG.md)
 - [进入试用网站](https://product-framework-idea-trial.onrender.com)（需要试用邀请码）
 
